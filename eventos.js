@@ -1,7 +1,5 @@
 var div = document.querySelector("div");
 
-const controller = new AbortController();
-
 div.addEventListener(
   "click",
   function(){
